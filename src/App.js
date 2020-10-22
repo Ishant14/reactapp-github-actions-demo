@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Github Action to deploy on Amazon ECS
         </a>
       </header>
     </div>
